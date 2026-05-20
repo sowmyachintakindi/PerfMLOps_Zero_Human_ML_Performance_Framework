@@ -1,0 +1,6 @@
+
+SELECT *
+FROM ML.FEATURE_IMPORTANCE(MODEL `ace-shine-465713-h2.analytics_494976509.ML_0903_1`);
+
+
+
